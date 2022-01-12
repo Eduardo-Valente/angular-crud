@@ -23,7 +23,12 @@
     {
       "id": 5,
       "name": "Caneta Vermelha",
-      "price": "1.50"
+      "price": "2.50"
+    },
+    {
+      "name": "Piano Steinway & Sons",
+      "price": "460000",
+      "id": 6
     }
   ]
 }
